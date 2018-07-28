@@ -11,6 +11,7 @@ O objetivo deste repositório é testar seu conhecimento usando o desafio de emp
 | :brazil: | [Nexaas](http://www.nexaas.com/) | Ruby on Rails | [Code →](https://github.com/myfreecomm/desafio-programacao-1)
 | :brazil: | [Creditas](http://www.creditas.com.br) | Ruby | [Code →](https://github.com/Creditas/challenge/tree/master/backend)
 | :brazil: | [Resultados Digitais](http://https://resultadosdigitais.com.br/) | Ruby on Rails | [Code →](https://github.com/ResultadosDigitais/pope-challenge)
+| :brazil: | [99taxis](http://99app.com/) | Ruby | [Code →](https://github.com/99Taxis/recruiting-challenge)
 
 ## License
 

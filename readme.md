@@ -10,6 +10,9 @@ O objetivo deste repositório é testar seu conhecimento usando o desafio de emp
 | :brazil: | [Creditas](http://www.creditas.com.br) | Ruby | [Code →](https://github.com/Creditas/challenge/tree/master/backend)
 | :brazil: | [Resultados Digitais](http://https://resultadosdigitais.com.br/) | Ruby on Rails | [Code →](https://github.com/ResultadosDigitais/pope-challenge)
 | :brazil: | [99taxis](http://99app.com/) | Ruby | [Code →](https://github.com/99Taxis/recruiting-challenge)
+| :brazil: | [Hotel Urbano](https://www.hotelurbano.com/) | Ruby | [Code →](https://github.com/HotelUrbano/challenge-bravo)
+| :brazil: | [Trackmob](https://trackmob.com.br/) | Ruby | [Code →](https://github.com/Trackmob/trackmob-backend-test)
+| :us: | [AmbulnzaLLC](http://www.ambulnz.com/) | Ruby | [Code →](https://github.com/AmbulnzLLC/backend-challenge)
 
 ## License
 

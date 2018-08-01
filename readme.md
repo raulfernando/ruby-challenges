@@ -13,6 +13,7 @@ O objetivo deste repositório é testar seu conhecimento usando o desafio de emp
 | :brazil: | [Hotel Urbano](https://www.hotelurbano.com/) | Ruby | [Code →](https://github.com/HotelUrbano/challenge-bravo)
 | :brazil: | [Trackmob](https://trackmob.com.br/) | Ruby | [Code →](https://github.com/Trackmob/trackmob-backend-test)
 | :us: | [AmbulnzaLLC](http://www.ambulnz.com/) | Ruby | [Code →](https://github.com/AmbulnzLLC/backend-challenge)
+| :brazil: | [Edools](https://www.edools.com/) | Ruby on Rails | [Code →](https://github.com/Edools/quero-trabalhar-no-edools_backend)
 
 ## License
 

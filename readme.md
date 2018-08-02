@@ -14,6 +14,7 @@ O objetivo deste repositório é testar seu conhecimento usando o desafio de emp
 | :brazil: | [Trackmob](https://trackmob.com.br/) | Ruby | [Code →](https://github.com/Trackmob/trackmob-backend-test)
 | :us: | [AmbulnzaLLC](http://www.ambulnz.com/) | Ruby | [Code →](https://github.com/AmbulnzLLC/backend-challenge)
 | :brazil: | [Edools](https://www.edools.com/) | Ruby on Rails | [Code →](https://github.com/Edools/quero-trabalhar-no-edools_backend)
+| :brazil: | [Taxweb](http://www.taxweb.com.br/) | Ruby on Rails | [code →](https://github.com/taxweb/avaliacao_rails_developer)
 
 ## License
 
